@@ -3,10 +3,7 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<h2 align="center">Hi, I'm Nakul<br>I code (sometimes)</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&center=true&multiline=true&width=900&size=40&lines=Hi,+I'm+Nakul++++++++++++)
 
 
 ###
